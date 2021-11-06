@@ -3,13 +3,13 @@
     "short_name": "Saifullah",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-Ux6Xn8oqNRk/YYZp79uTZQI/AAAAAAAAcj4/SVR_H7IYdyIceoptrpcIbt8-qPbpP9KjgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "src": "https://1.bp.blogspot.com/-XTx7cc75JZg/YYagKfS5aPI/AAAAAAAAcks/Z8BY9yDOd6Yv0tNJWucPvIcHvQOvbBKUACLcBGAsYHQ/s0/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://1.bp.blogspot.com/-9uJWThk_xmw/YYZp7ysG5eI/AAAAAAAAckA/NsC5lPYgd1A6P4F6uoFl7nxWnexgVm1mwCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "src": "https://1.bp.blogspot.com/-4ZZv8VqBlGc/YYagKcAkhcI/AAAAAAAAckw/Kk_RQTHhHpsasZYY7waz1q5wJRAEPdY9gCLcBGAsYHQ/s16000/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
